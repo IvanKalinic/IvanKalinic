@@ -2,7 +2,10 @@
 
 I'm Ivan Kalinić, fifth year student of Software Engineering and Information Systems at FER. I am very curios and motivated about web development so I'm learning new stuff every day. My favorite area of web development is Frontend, especially React with the help from TypeScript. I'm also looking to get familiar with other frameworks or topics related to Frontend development.
 
-Skills: REACT / TYPESCRIPT / JS / HTML / CSS / SCSS
+## Skills and Experience:   
+⚛️ React
+💻 HTML,CSS,SCSS,JS,TYPESCRIPT
+
 
 - 🔭 I’m currently working on Ericsson Nikola Tesla 
 
